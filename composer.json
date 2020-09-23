@@ -1,10 +1,8 @@
 {
-    "name": "codicastudio/shareable",
-    "description": "A noobs worthless garbage, just learning.",
-    "keywords": [
-        "worthless garabage by a noob."
-    ],
-    "homepage": "https://github.com/codicastudio/shareable",
+    "name": "codica-studio/shareable",
+    "description": "A random Codica Studio package.",
+
+    "homepage": "https://github.com/codica-studio/shareable",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +14,7 @@
     ],
 
     "require": {
-        "php" : ">=7.4"
+        "php": ">=7.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0",
